@@ -1,0 +1,9 @@
+public class Substr
+{
+	public static void main(String args[])
+	{
+		String Str = new String("Welcome to Master world");
+		System.out.print("The extracted substring is : ");
+		System.out.println(Str.substring(10));
+	}
+}
